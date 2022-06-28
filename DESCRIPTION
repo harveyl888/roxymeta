@@ -1,0 +1,9 @@
+Package: roxymeta
+Type: Package
+Title: roclet to store metadata
+Version: 0.1.0
+Authors@R: person("Harvey", "Lieberman", email = "harvey.lieberman@gmail.com", role = c("aut", "cre"))
+Description: roclet to store metadata
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
