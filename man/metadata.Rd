@@ -11,15 +11,15 @@
 \usage{
 metadata()
 
-roxy_tag_parse.roxy_tag_metadata(x)
+\method{roxy_tag_parse}{roxy_tag_metadata}(x)
 
-roxy_tag_rd.roxy_tag_metadata(x, base_path, env)
+\method{roxy_tag_rd}{roxy_tag_metadata}(x, base_path, env)
 
 \method{format}{rd_section_metadata}(x, ...)
 
-roclet_process.roclet_metadata(x, blocks, env, base_path)
+\method{roclet_process}{roclet_metadata}(x, blocks, env, base_path)
 
-roclet_output.roclet_metadata(x, results, base_path, ...)
+\method{roclet_output}{roclet_metadata}(x, results, base_path, ...)
 }
 \description{
 roclet to parse @metadata tag
